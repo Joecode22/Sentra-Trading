@@ -48,11 +48,8 @@ SentraTrading is a MERN stack application with GraphQL, designed for real-time f
 ## Usage
 Detailed usage instructions go here.
 
-## Contributing
-Contributions are welcome. Please read the CONTRIBUTING.md file for details.
-
 ## License
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries, please contact us at email@example.com.
+Github: Joecode22
